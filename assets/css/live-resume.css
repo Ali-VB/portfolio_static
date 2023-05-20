@@ -7920,6 +7920,8 @@ main {
           text-decoration: none; }
       main .blog-posts-wrapper .blog-post-thumbnail {
         width: 80%;
+        height:160px;
+        object-fit: contain;
 
         margin-bottom: 13px; }
       main .blog-posts-wrapper .blog-post-title {
